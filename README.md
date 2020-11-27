@@ -8,12 +8,12 @@ El procesamiento de lenguaje natural es el terreno que representa a la inteligen
 
 - [Adquisición de Textos](http://localhost:8888/notebooks/Taller_2.ipynb)
 Adquirir los datos mas relevantes a nuestro proyecto ¿Como lo hacemos? 
-**Paso 1:** Adquisición de datos
-**Paso 2 y 3:** Limpieza de Texto y Pre-Procesamiento
-**Paso 4:** Feature Engineering (Creación de Características)
-**Paso 5:** Modelo
-**Paso 6:** Evaluación del rendimiento del modelo
-**Paso 7:** Modelo en producción
+**Paso 1:** Adquisición de datos;
+**Paso 2 y 3:** Limpieza de Texto y Pre-Procesamiento;
+**Paso 4:** Feature Engineering (Creación de Características);
+**Paso 5:** Modelo;
+**Paso 6:** Evaluación del rendimiento del modelo;
+**Paso 7:** Modelo en producción.
 
 **_Descubre más observando el codigo_ :)**
 
